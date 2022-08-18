@@ -16,4 +16,10 @@
 <div> 
 <a href="https://www.linkedin.com/in/lucas-willian-787803187/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <a href="https://www.instagram.com/1lucashsw/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="mailto:lucaswilliansoares00@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</div>
+
+
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
