@@ -1,4 +1,5 @@
-## Olá, eu sou Lucas 😁
+## Olá, me chamo Lucas e estou nessa jornada para se tornar programador!!😁
+<div align="center">
 -💼 Atuamente trabalho como auxiliar de produção                                                                                                                         
 -📘 Estudando Java
 <div>
