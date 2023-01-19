@@ -1,5 +1,5 @@
-## Olá, me chamo Lucas e estou nessa jornada para se tornar programador!!😁
--💼 Atuamente trabalho como auxiliar de produção                                                                                                                         
+## Olá, me chamo Lucas e estou nessa jornada para se tornar um programador!!😁
+-💼 Atuamente trabalho como operador de máquinas                                                                                                                         
 -📘 Estudando Java
 <div align="center">
   <a href="https://github.com/1lucashsw">
